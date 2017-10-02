@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="txt1">First Court</string>
+    <string name="txt2">Second Court</string>
+    <string name="txt3">Third Court</string>
+    <string name="bntAcerca">About</string>
+    <string name="bntTotal">Average</string>
+    <string name="txtInf">The calculation of notes was done with the following formula (((note1 + note2) / 2) * 0.6) + (note3 * 0.4)</string>
+    <string name="bntSalir">Exit</string>
+    <string name="txtCal">Calculation</string>
+    <string name="txtDes">APO</string>
+    <string name="txtDist">English</string>
+    <string name="txtNota">Final Note</string>
+    <string name="txtTitulo">Calculation of Notes</string>
+    <string name="toast">The total average is:</string>
+    <string name="error">Note can not be greater than 5</string>
+</resources>

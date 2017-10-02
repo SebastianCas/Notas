@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="txt1">Primer Corte</string>
+    <string name="txt2">Segundo Corte</string>
+    <string name="txt3">Tercer Corte</string>
+    <string name="bntAcerca">Acerca De</string>
+    <string name="bntTotal">Promedio</string>
+    <string name="txtInf">El calculo de notas se realizó con la siguiente formula (((nota1+nota2)/2)*0.6)+(nota3*0.4)</string>
+    <string name="bntSalir">Salir</string>
+    <string name="txtDist">Ingles</string>
+    <string name="txtCal">Calculo</string>
+    <string name="txtDes">APO</string>
+    <string name="txtNota">Nota Final</string>
+    <string name="txtTitulo">Calculo de Notas</string>
+    <string name="toast">El promedio total es:</string>
+    <string name="error">La nota no puede ser mayor a 5</string>
+</resources>
