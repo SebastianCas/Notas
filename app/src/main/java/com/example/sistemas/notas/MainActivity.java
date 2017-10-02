@@ -116,6 +116,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void afterTextChanged(Editable s) {
                 try {
+                    
 
                     SharedPreferences prefe1=getSharedPreferences("apo",Context.MODE_PRIVATE);
                     SharedPreferences.Editor editor=prefe1.edit();
